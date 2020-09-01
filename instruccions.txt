@@ -1,0 +1,1 @@
+El codi és un document .Rmd que funciona quan és executat de forma seqüencial. És recomanable reduir el nombre d’execucions a l’hora de fer cross validation, ja que sinó el runtime podria superar les 4h. Cada chunk amb algun comportament aleatori conté una seed que permet reproduir els resultats.
